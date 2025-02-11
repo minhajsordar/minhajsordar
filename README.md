@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![MasterHead](https://i.ibb.co/x1t1ZPc/Black-White-Modern-Minimalist-Data-Analyst-Linked-In-Banner.png)
 <h1 align="center">Hi, I'm Minhaj Sordar</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
 
