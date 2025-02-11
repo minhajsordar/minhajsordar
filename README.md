@@ -30,8 +30,8 @@ Beyond development, I enjoy problem-solving, optimizing application performance,
 
 - 📫 Email me to **minhajsordar@gmail.com**
 
-- 📄 Get My Resume from here: <a href="#" target="_blank" rel="noreferrer">Resume Link</a>
+- 📄 Get My Resume from here: <a href="https://docs.google.com/document/d/1XgFOlHZi7EQQvCgDAKShOIuUJVDgrzUW/edit" target="_blank" rel="noreferrer">Resume Link</a>
 
-- 📄 And my CV from here: <a href="#" target="_blank" rel="noreferrer">CV Link</a>
+- 📄 And my CV from here: <a href="https://docs.google.com/document/d/1XgFOlHZi7EQQvCgDAKShOIuUJVDgrzUW/edit" target="_blank" rel="noreferrer">CV Link</a>
 
 <br/>
